@@ -1,0 +1,1 @@
+permissons script
